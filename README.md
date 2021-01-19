@@ -30,10 +30,10 @@ the menu by clicking the hamburger menu again.
 ## Tasks
 
 1. Created a new repository on GitHub at https://github.com/chrisberanek/UI-DOM-API-Project-3
-1. Selected a UI pattern of "Hamburger Menu" (as shown above) and created html boilerplate and js.script functions in local repository to utiliize this template.
+1. Selected a UI pattern of "Hamburger Menu" (as shown above) and created html boilerplate and js.script functions in local repository to utiliize this template. <Reference url:>https://i.imgur.com/aaI7Zhv.png https://i.imgur.com/KMveDRX.png
 1. Selected the FOODISH API and used the given base URL for all endpoints: https://foodish-api.herokuapp.com/
 1. Created fetch(url) commands and document.querySelectors to get images of food items from above mentioned Foodish API site upon corresponding 'buttonclick' events.
-1. Deployed website at https://chrisberanek.github.io/UI-DOM-API-Project-3
+1. Deployed to GitHub repo at: https://github.com/chrisberanek/UI-DOM-API-Project-3
 
 ## Acknowledgements
 
