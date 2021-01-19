@@ -1,7 +1,8 @@
+
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <title>UI-Project</title>
+        <title>Food Image Generator</title>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link href="css/style.css" rel="stylesheet">
@@ -9,18 +10,20 @@
     <body>
         <div id="mySidepanel" class="sidepanel">
             <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">×</a>
-            <a href="#">About</a>
-            <a href="#">Services</a>
-            <a href="#">Clients</a>
-            <a href="#">Contact</a>
+            <a href="javascript:void(0)"; onclick="getBurger();"  >Burgers</a>
+            <a href="javascript:void(0)"; onclick="getPizza();"  >Pizza</a>
+            <a href="javascript:void(0)"; onclick="getFood();"  >Random Food</a>
+            <a href="javascript:void(0)"; onclick="getBiryani();"  >Biryani</a>
           </div>
           
-          <button class="openbtn" onclick="openNav()">☰ Toggle Sidepanel</button>  
-          <h2>Collapsed Sidepanel</h2>
-          <p>Click on the hamburger menu/bar icon to open the sidepanel.</p>
+          <button class="openbtn" onclick="openNav()">☰ Image Selection Menu</button>  
+          <h2>Food Image Generator - Use To Create Your Own Menu</h2>
+          <p>Clink the MENU at right to choose Food Categories --></p>
           
-          
-             
+          <div>
+             <img class = "foodImage">
+          </div>
+            
         <script src="script.js" ></script>
     </body>
 </html>
